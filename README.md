@@ -4,4 +4,4 @@ It uses:
 -bs4  
 -PySimpleGUI  
 -webbrowser  
--requests)
+-requests
